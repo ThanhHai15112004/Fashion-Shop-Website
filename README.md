@@ -39,9 +39,10 @@ A modern fashion e-commerce platform built with ReactJS, NextJS, NestJS, and Mon
 
 ## 👥 Team
 
-- **Frontend:** 2 developers  
-- **Backend:** 1 developer  
-- **Fullstack (Scrum Master):** 1 developer  
+- **Frontend:** : Mai Hoang Van
+- **Frontend:** : Ho Minh Quan
+- **Backend:** : Ly Quang Hau
+- **Fullstack (Scrum Master):** Phan Thanh Hai
 
 1-week sprints with full Scrum rituals (Planning, Daily, Review, Retrospective).
 
